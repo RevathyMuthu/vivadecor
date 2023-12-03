@@ -28,11 +28,11 @@ const Row1 = () => {
                         <GridItem colStart={5} colEnd={6} h='30'  >
                             <Box maxW='sm' w="300px" h="200px">
                                 {/* Right column with image */}
-                                <Image src="/images/image 1.jpg" alt="Content Image" w={600} h={350} />
+                                <Image src="/images/R1I1.jpg" alt="Content Image" w={600} h={350} />
 
                             </Box>
                         </GridItem>
-                        {/* </SimpleGrid> */}
+                        
                     </Grid>
                 </Box>
 
@@ -83,7 +83,7 @@ const Row1 = () => {
                         </GridItem>
                         <GridItem colStart={2} colEnd={6} pl={10} h='10'  >
 
-                            <Image src="/images/image 2.jpg" alt="Content Image" w={480} h={300} />
+                            <Image src="/images/R2I2.jpg" alt="Content Image" w={480} h={300} />
 
                         </GridItem>
                         <GridItem colStart={2} colEnd={6} h='10' mt={154} ml={480}  >
