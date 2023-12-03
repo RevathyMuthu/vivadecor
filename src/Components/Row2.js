@@ -6,7 +6,7 @@ const Row2 = () => {
         <div style={{ paddingTop: 300 }}>
             <Box p={8}>
                 <HStack mb={20}>
-                    <Image src="/images/line 1.png" />
+                    <Image src="/images/line1.png" />
                     <Text fontSize={30}>
                         Our Services
                     </Text>
